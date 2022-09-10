@@ -1,0 +1,23 @@
+.tall {
+    height: 80vh;
+}
+
+.sec-gap {
+    margin-bottom: 120px;
+}
+
+.backg-col1 {
+    background-color: #3F87F5
+}
+
+.backg-col2 {
+    background-color: rgba(255, 182, 193, 0.794)
+}
+
+.backg-col3 {
+    background-color: lightgreen
+}
+
+.backg-col4 {
+    background-color: #3F87F5
+}
